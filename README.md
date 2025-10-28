@@ -106,6 +106,6 @@ cp .env.example .env
 Этот проект создан в образовательных целях в рамках курса Sber.
 ## 📞 Контакты
 
-- **Email:** [okulova.ksyu.1975@yandex.ru]
-- **Telegram:** [@okulova_ksyu]
+- **Email:** okulova.ksyu.1975@yandex.ru
+- **Telegram:** @okulova_ksyu
 
