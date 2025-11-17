@@ -1,2 +1,15 @@
-mkdir 02-llm-api
-cd 02-llm-api
+cd /tmp
+git clone https://github.com/aidialogs/sber-agents.git temp-repo
+# Временно склонируйте учебный репозиторий
+cd /tmp
+git clone https://github.com/aidialogs/sber-agents.git temp-repo
+
+# Скопируйте файлы проекта в ваш репозиторий
+cp -r temp-repo/02-llm-api/homework/project/* путь/к/вашему/sber-agents/02-llm-api/
+
+# Удалите временную папку
+rm -rf temp-repo
+
+# Вернитесь в ваш репозиторий
+cd путь/к/вашему/sber-agents
+
